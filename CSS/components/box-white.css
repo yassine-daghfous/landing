@@ -1,0 +1,11 @@
+.box-white{
+  background: rgba(250,250,250,0.7);
+  margin: 0px 30px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.box-white h3 {
+  margin-top: 40px;
+}

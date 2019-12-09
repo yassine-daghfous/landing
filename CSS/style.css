@@ -1,0 +1,32 @@
+@import	url("https://fonts.googleapis.com/css?family=Lato|Sulphur+Point");
+
+@import url("components/container.css");
+
+@import	url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/topnav.css");
+
+@import url("components/box-white.css");
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+  line-height: 1.5;
+  background: #e3e7f1;
+}
+
+h1,h2,h3 {
+	font-family: 'Sulphur Point', sans-serif;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+}
+
